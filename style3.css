@@ -18,7 +18,9 @@ h2.text-center {
     color: white;
     font-size: 2rem;
     text-align: center;
-font-weight: 800;
+    font-weight: 800;
+    color:rgb(248, 48, 108);
+    background-color: rgb(228, 234, 144);
 }
 /* Styling the input field container */
 .mb-3 {
